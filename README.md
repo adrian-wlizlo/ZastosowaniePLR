@@ -9,9 +9,9 @@ Pliki:
 2. covid
 
 Kody źródłowe:
-1.konfiguracja.sql
+1. konfiguracja.sql
 2. funkcja summary.sql
-3.funkcje agregujące.sql
+3. funkcje agregujące.sql
 4. tabele.sql
 5. testy.sql
 6. pca procent wariancji.sql
