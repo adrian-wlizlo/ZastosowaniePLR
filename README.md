@@ -1,4 +1,4 @@
-# ZastosowaniePLR
+# Zastosowanie języka proceduralnego w bazie danych w celu stworzenia statystycznej analizy i wizualizacji danych
 Zastosowanie języka proceduralnego w bazie danych w celu stworzenia statystycznej analizy i wizualizacji danych 
 
 Repozytorium zawiera wszystkie kody źródłowe, plik README, który zawiera opis uruchomienia kodów źródłowych oraz plik zawierający dane wirusa COVID-19 do bazy danych.
